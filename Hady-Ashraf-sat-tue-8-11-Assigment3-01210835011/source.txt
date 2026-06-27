@@ -1,0 +1,1 @@
+This content was copied from source.txt to dest.txt using readable and writable streams.
